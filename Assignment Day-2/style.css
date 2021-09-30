@@ -1,0 +1,19 @@
+.main{
+    padding: 25px;
+    border:5px double lightgray;
+    background-color: #efef;
+    height: auto;
+    width: auto;
+}
+
+.color_1{
+    color: #9932cc;
+}
+
+.color_2{
+    color:darkseagreen;
+}
+
+.color_3{
+    color: dimgrey;
+}
